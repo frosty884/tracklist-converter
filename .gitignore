@@ -1,0 +1,14 @@
+# Ignore CSV output files
+*.csv
+
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Compiled JavaScript files
+/dist
+
+# Other typical ignores
+.DS_Store
